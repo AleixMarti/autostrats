@@ -1,0 +1,1 @@
+Autostrats is a repository of simple templates for automated trading strategies. The purpose of which is to provide people with templates for automated trading strategies that work with the NinjaTrader trading application.
